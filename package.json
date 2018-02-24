@@ -1,0 +1,20 @@
+{
+  "name": "keksby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-batch": "^1.0.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^5.0.0",
+    "gulp-zip": "^4.1.0",
+    "run-sequence": "^2.2.1"
+  }
+}
